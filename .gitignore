@@ -176,3 +176,7 @@ cython_debug/
 #Virtual Environment
 
 ~/.virtualenvs/MIT6100Fall2022/
+
+# Directories
+
+offline/
