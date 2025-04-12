@@ -10,6 +10,6 @@ As part of my own learning journey, I’ve extended this repo beyond the officia
 4. Reddit communities like r/datascience and r/python
 5. [Conditional statements and loop exercises (W3resource)](https://www.w3resource.com/python-exercises/python-conditional-statements-and-loop-exercises.php)
 6. [Advent of Code](https://adventofcode.com/)
-7. [University of Buffalo](https://mkzia.github.io/eas503-book/chapters/06/intro.html)
+7. [University of Buffalo, Python for Data Scientists, EAS503](https://mkzia.github.io/eas503-book/chapters/06/intro.html)
 8. [PyNative exercises](https://pynative.com/python-if-else-and-for-loop-exercise-with-solutions/#h-exercise-1-print-first-10-natural-numbers-using-while-loop)
 9. [Python Beginner Projects (W3resource)](https://www.w3resource.com/projects/python/python_beginners_projects.php)
