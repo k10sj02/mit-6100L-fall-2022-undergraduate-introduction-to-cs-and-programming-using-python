@@ -1,4 +1,4 @@
-# Dev Notes – Folder & GitHub Repo Renaming
+# Dev Notes
 
 **Date:** April 11, 2025  
 **Reason:** Expanded the repo beyond MIT 6.100L to include extra exercises and challenges.
