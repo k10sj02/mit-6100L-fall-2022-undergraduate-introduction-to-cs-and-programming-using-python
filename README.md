@@ -12,4 +12,4 @@ As part of my own learning journey, I’ve extended this repo beyond the officia
 6. [Advent of Code](https://adventofcode.com/)
 7. [University of Buffalo](https://mkzia.github.io/eas503-book/chapters/06/intro.html)
 8. [PyNative exercises](https://pynative.com/python-if-else-and-for-loop-exercise-with-solutions/#h-exercise-1-print-first-10-natural-numbers-using-while-loop)
-9. [Python Beginner Projects (W3resource](https://www.w3resource.com/projects/python/python_beginners_projects.php)
+9. [Python Beginner Projects (W3resource)](https://www.w3resource.com/projects/python/python_beginners_projects.php)
