@@ -7,7 +7,7 @@ As part of my own learning journey, I’ve extended this repo beyond the officia
 1. Harvard’s **CS50** by **David Malan**
 2. Generative AI exploration (with ChatGPT)
 3. Reddit communities like r/datascience and r/python
-4. [Conditional statements and loop exercises (W3resource])(https://www.w3resource.com/python-exercises/python-conditional-statements-and-loop-exercises.php)) Python practice problems
+4. [Conditional statements and loop exercises (W3resource](https://www.w3resource.com/python-exercises/python-conditional-statements-and-loop-exercises.php)
 5. [Advent of Code](https://adventofcode.com/)
 6. [University of Buffalo](https://mkzia.github.io/eas503-book/chapters/06/intro.html)
 7. [PyNative exercises](https://pynative.com/python-if-else-and-for-loop-exercise-with-solutions/#h-exercise-1-print-first-10-natural-numbers-using-while-loop)
