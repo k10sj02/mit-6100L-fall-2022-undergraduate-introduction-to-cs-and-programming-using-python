@@ -7,8 +7,8 @@ bob.color("red", "yellow")
 
 bob.begin_fill()
 for _ in range(250):
-  bob.forward(400)
-  bob.left(210)
+  bob.forward(150)
+  bob.left(175)
 
 bob.end_fill()
 
