@@ -4,10 +4,10 @@ This repository began as a collection of code and exercises from [**MIT’s 6.10
 
 As part of my own learning journey, I’ve extended this repo beyond the official coursework to include **supplementary exercises, personal walkthroughs, and challenges** that reinforce key ideas and build fluency in Python. This expanded approach supports my goal of strengthening foundational skills in preparation for upcoming projects and learning tracks from:
 
-1. Harvard’s **CS50** by **David Malan**
+1. Harvard’s [**CS50**](https://pll.harvard.edu/course/cs50-introduction-computer-science) by **David Malan**
 2. Seneca College's **Introduction to Python (PRO675)** with **Morteza Kiadi**
 3. Generative AI exploration (with ChatGPT)
-4. Reddit communities like r/datascience and r/python
+4. Reddit communities like [r/datascience](https://www.reddit.com/r/datascience/), [r/python](https://www.reddit.com/r/Python/), and [r/learnpython](https://www.reddit.com/r/learnpython)
 5. [Conditional statements and loop exercises (W3resource)](https://www.w3resource.com/python-exercises/python-conditional-statements-and-loop-exercises.php)
 6. [Advent of Code](https://adventofcode.com/)
 7. [University of Buffalo, Python for Data Scientists, EAS503](https://mkzia.github.io/eas503-book/chapters/06/intro.html)
