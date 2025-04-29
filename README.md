@@ -17,3 +17,4 @@ As part of my own learning journey, I’ve extended this repo beyond the officia
 11. [100 Days of Code: The Complete Python Pro Bootcamp (via Udemy)](https://www.udemy.com/course/100-days-of-code/)
 12. [Code Wars](https://www.codewars.com/collections/basic-python)
 13. [Hackerrank](https://www.hackerrank.com/domains/python)
+14. [Automate Everything with Python (via Udemy)](https://www.udemy.com/course/automate-everything-with-python/)
