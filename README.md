@@ -13,5 +13,7 @@ As part of my own learning journey, I’ve extended this repo beyond the officia
 7. [University of Buffalo, Python for Data Scientists, EAS503](https://mkzia.github.io/eas503-book/chapters/06/intro.html)
 8. [PyNative exercises](https://pynative.com/python-if-else-and-for-loop-exercise-with-solutions/#h-exercise-1-print-first-10-natural-numbers-using-while-loop)
 9. [Python Beginner Projects (W3resource)](https://www.w3resource.com/projects/python/python_beginners_projects.php)
-10. [Replit 100 Days of Code](https://replit.com/learn/100-days-of-python/hub) 
+10. [100 Days of Code (via Replit)](https://replit.com/learn/100-days-of-python/hub) 
 11. [100 Days of Code: The Complete Python Pro Bootcamp (via Udemy)](https://www.udemy.com/course/100-days-of-code/)
+12. [Code Wars](https://www.codewars.com/collections/basic-python)
+13. [Hackerrank](https://www.hackerrank.com/domains/python)
