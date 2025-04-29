@@ -6,7 +6,7 @@ As part of my own learning journey, I’ve extended this repo beyond the officia
 
 1. Harvard’s [**CS50**: Introduction to Programming with Python](https://pll.harvard.edu/course/cs50-introduction-computer-science) by **David Malan**
 2. Seneca College's **Introduction to Python (PRO675)** with **Morteza Kiadi**
-3. Generative AI exploration (with ChatGPT)
+3. Self-designed exercises and challenges, created with support from ChatGPT
 4. Reddit communities like [r/datascience](https://www.reddit.com/r/datascience/), [r/python](https://www.reddit.com/r/Python/), and [r/learnpython](https://www.reddit.com/r/learnpython)
 5. [Conditional statements and loop exercises (W3resource)](https://www.w3resource.com/python-exercises/python-conditional-statements-and-loop-exercises.php)
 6. [Advent of Code](https://adventofcode.com/)
