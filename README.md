@@ -2,7 +2,7 @@
 
 This repository began as a collection of code and exercises from [**MIT’s 6.100L (Fall 2022)**](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/) – *Introduction to Computer Science and Programming Using Python*, taught by **Dr. Ana Bell**. The course introduces core programming concepts using Python, with an emphasis on problem-solving through computation. It's designed for learners with little to no prior programming experience.
 
-As part of my own learning journey, I’ve extended this repo beyond the official coursework to include **supplementary exercises, personal walkthroughs, and challenges** that reinforce key ideas and build fluency in Python. This expanded approach supports my goal of strengthening foundational skills in preparation for upcoming projects and learning tracks from:
+As part of my own learning journey, I’ve extended this repo beyond the official coursework to include **supplementary exercises, personal walkthroughs, notes, and challenges** that reinforce key ideas and build fluency in Python. This expanded approach supports my goal of strengthening foundational skills in preparation for upcoming projects and learning tracks from:
 
 1. Harvard’s [**CS50**: Introduction to Programming with Python](https://pll.harvard.edu/course/cs50-introduction-computer-science) by **David Malan**
 2. Seneca College's **Introduction to Python (PRO675)** with **Morteza Kiadi**
@@ -18,3 +18,5 @@ As part of my own learning journey, I’ve extended this repo beyond the officia
 12. [Code Wars](https://www.codewars.com/collections/basic-python)
 13. [Hackerrank](https://www.hackerrank.com/domains/python)
 14. [Automate Everything with Python (via Udemy)](https://www.udemy.com/course/automate/)
+
+Feel free to explore, fork, or use this repo as a reference or companion as you work through your own Python learning journey.
