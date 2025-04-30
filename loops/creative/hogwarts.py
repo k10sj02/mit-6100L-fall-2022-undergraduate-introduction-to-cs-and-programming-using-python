@@ -1,6 +1,6 @@
-# students = ["Hermione", "Harry", "Ron", "Draco"]
-# house = ["Gryffindor", "Gryffindor", "Gryffindor", "Slytherin"]
+students = ["Hermione", "Harry", "Ron", "Draco"]
+house = ["Gryffindor", "Gryffindor", "Gryffindor", "Slytherin"]
 
-# for i in range(len(students)):
-#   print(i + 1, students[i])
+for i in range(len(students)):
+  print(i + 1, students[i])
 
