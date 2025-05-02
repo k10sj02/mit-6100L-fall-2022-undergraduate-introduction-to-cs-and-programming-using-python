@@ -17,5 +17,6 @@ As part of my own learning journey, I’ve extended this repo beyond the officia
 11. [Code Wars](https://www.codewars.com/collections/basic-python)
 12. [Hackerrank](https://www.hackerrank.com/domains/python)
 13. [Automate Everything with Python (via Udemy)](https://www.udemy.com/course/automate/)
+14. DataCamp
 
 Feel free to explore, fork, or use this repo as a reference or companion as you work through your own Python learning journey.
