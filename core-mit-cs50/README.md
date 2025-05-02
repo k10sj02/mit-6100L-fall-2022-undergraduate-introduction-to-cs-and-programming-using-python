@@ -82,8 +82,6 @@ While working through the MIT OpenCourseWare Python course, I found it excels at
 | OOP                            | ✅ Covered later        | ✅ Covered later            | Both solid                      |
 | Applied Practice               | ⚠️ Abstract challenges | ✅ More practical exercises | Use CS50P for hands-on learning |
 
-Great — here's your **updated table** including both **MIT 6.0001** and **CS50P** lectures, clearly divided into **High-Impact (Must-Watch)** and **Optional (Skim/Fill-In)**. This lets you track both theoretical depth (MIT) and practical coverage (CS50P):
-
 ---
 
 ## ✅ High-Impact Lectures (Must-Watch or Practice)
