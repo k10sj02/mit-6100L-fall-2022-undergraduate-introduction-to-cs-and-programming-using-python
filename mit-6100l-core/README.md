@@ -64,3 +64,54 @@ These lectures are useful but not essential unless you're brand new to programmi
 - Treat each “must-watch” section as a checkpoint. Build small projects/scripts with them.
 - For “optional” lectures, dip in as needed when a topic shows up in your work or interview prep.
 - Combine this with hands-on exercises, coding notebooks, and project work for retention.
+
+## Plugging the Missing Pieces
+
+While working through the MIT OpenCourseWare Python course, I found it excels at developing strong fundamentals in programming logic and problem-solving. However, a few practical topics are either briefly touched on or not addressed explicitly. To round out my learning, I’m supplementing these areas with the CS50P syllabus, which provides hands-on lessons in real-world skills like file handling and regular expressions.
+
+🧭 **Here’s how the two courses complement each other:**
+
+| **Topic**                      | **MIT OCW**            | **CS50P**                  | **Verdict**                     |
+| ------------------------------ | ---------------------- | -------------------------- | ------------------------------- |
+| Core Logic & Problem Solving   | ✅ Deep dive            | ✅ Basic intro              | Both are great together         |
+| Functions, Loops, Conditionals | ✅ Thorough             | ✅ Thorough                 | Both do well here               |
+| Libraries                      | ⚠️ Light exposure      | ✅ Dedicated lesson         | Use CS50P                       |
+| Unit Testing                   | ⚠️ Minor or skipped    | ✅ Full lesson              | Use CS50P                       |
+| File I/O                       | ⚠️ Usually brief       | ✅ Full lesson              | Use CS50P                       |
+| Regular Expressions            | ❌ Often skipped        | ✅ Dedicated lesson         | Use CS50P                       |
+| OOP                            | ✅ Covered later        | ✅ Covered later            | Both solid                      |
+| Applied Practice               | ⚠️ Abstract challenges | ✅ More practical exercises | Use CS50P for hands-on learning |
+
+Great — here's your **updated table** including both **MIT 6.0001** and **CS50P** lectures, clearly divided into **High-Impact (Must-Watch)** and **Optional (Skim/Fill-In)**. This lets you track both theoretical depth (MIT) and practical coverage (CS50P):
+
+---
+
+## ✅ High-Impact Lectures (Must-Watch or Practice)
+
+| **Topic Area**              | **MIT 6.0001 Lectures** | **CS50P Lectures**       | **Why It Matters**                                                  |
+| --------------------------- | ----------------------- | ------------------------ | ------------------------------------------------------------------- |
+| **Control Flow**            | 2–3                     | Conditionals             | Foundations for logic, decisions, and branching                     |
+| **Loop Patterns**           | 4–6                     | Loops                    | Vital for iteration, search patterns, optimization strategies       |
+| **Functions & Logic**       | 7–9                     | Functions, Variables     | Key to clean, reusable, testable scripting                          |
+| **Lists & Comprehensions**  | 9, 12                   | Covered across examples  | Fluency with data containers and compact logic                      |
+| **Dictionaries**            | 14                      | Libraries, general usage | Essential for JSON, records, maps, and config data                  |
+| **File I/O**                | ⚠️ Brief in MIT         | ✅ File I/O (dedicated)   | Real-world file handling is critical in DE/DS pipelines             |
+| **Regular Expressions**     | ❌ Not covered           | ✅ Regex (dedicated)      | Necessary for pattern-matching, data cleaning, scraping             |
+| **Unit Testing**            | ⚠️ Minimal              | ✅ Unit Tests             | Writing reliable code is a must in professional environments        |
+| **OOP**                     | 17–19                   | OOP                      | Crucial for tools, simulations, and ML pipeline structuring         |
+| **Efficiency & Complexity** | 21–23                   | Et Cetera (CS50P end)    | Important for scaling, time/space tradeoffs, and advanced pipelines |
+
+---
+
+## 🔄 Optional / Skim Based on Time
+
+| **Topic Area**              | **MIT 6.0001**       | **CS50P**         | **Notes**                                                       |
+| --------------------------- | -------------------- | ----------------- | --------------------------------------------------------------- |
+| **Intro / Basics**          | Lecture 1            | Introduction      | Skip if you’re already coding                                   |
+| **Aliasing, Mutability**    | 10–11                | Covered lightly   | Good for debugging edge cases                                   |
+| **Exceptions / Assertions** | 13                   | Exceptions        | Helpful for robust scripting                                    |
+| **Recursion**               | 15–16                | Brief/Not focused | Great for theory/interviews; less common in daily work          |
+| **Applied OOP Example**     | 20 (Fitness Tracker) | N/A               | Optional demo if you want to see OOP in context                 |
+| **Plotting**                | 25                   | N/A               | Skip here; use pandas, matplotlib, seaborn separately           |
+| **Hashing & Simulations**   | 24, 26               | N/A               | Advanced topics; revisit when deeper into DE/DS tasks           |
+| **Et Cetera (Catch-all)**   | —                    | Et Cetera         | Optional final topics; revisit when exploring advanced patterns |
