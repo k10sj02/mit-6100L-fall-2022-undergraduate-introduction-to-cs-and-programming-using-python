@@ -88,3 +88,38 @@ I updated the repo on GitHub and also made local changes. When trying to push, I
 
 - Use rebase for cleaner history:
    git pull --rebase origin main
+
+**Date:** May 2, 2025  
+**Reason:** Reconciling repo after changing name of root folder.
+
+## 🛠 Resolving Git Push Rejection with `git pull --rebase`
+
+**Context:**  
+While trying to push changes to my GitHub repo (`main` branch), I got this error:
+
+```
+
+! \[rejected]        main -> main (fetch first)
+error: failed to push some refs to ...
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally.
+
+````
+
+**Cause:**  
+The remote repository had commits I didn’t have locally — likely added from another machine or via the GitHub UI. Git prevents me from pushing to avoid overwriting them.
+
+**Fix:**  
+Used `git pull --rebase` to safely bring down remote changes and replay my local commits on top:
+
+```bash
+git pull --rebase origin main
+git push origin main
+````
+
+**Why `--rebase`?**
+
+* Keeps history clean (avoids unnecessary merge commits)
+* Ensures local changes are added *after* remote changes
+
+```
