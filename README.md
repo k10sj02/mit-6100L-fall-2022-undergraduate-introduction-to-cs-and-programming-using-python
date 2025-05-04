@@ -4,7 +4,7 @@ This repository began as a collection of code and exercises from [**MIT’s 6.10
 
 As part of my own learning journey, I’ve extended this repo beyond the official coursework to include **supplementary exercises, personal walkthroughs, notes, and challenges** that reinforce key ideas and build fluency in Python. This expanded approach supports my goal of strengthening foundational skills in preparation for upcoming projects and learning tracks from:
 
-1. Harvard’s [**CS50**: Introduction to Programming with Python](https://pll.harvard.edu/course/cs50-introduction-computer-science) by **David Malan**
+1. Harvard’s [**CS50**: Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/) by **David Malan**
 2. Seneca College's **Introduction to Python (PRO675)** with **Morteza Kiadi**
 3. Self-designed exercises and challenges, created with support from ChatGPT
 4. Reddit communities like [r/datascience](https://www.reddit.com/r/datascience/), [r/python](https://www.reddit.com/r/Python/), and [r/learnpython](https://www.reddit.com/r/learnpython)
