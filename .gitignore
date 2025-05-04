@@ -176,6 +176,7 @@ cython_debug/
 #Virtual Environment
 
 ~/.virtualenvs/MIT6100Fall2022/
+cowsay/
 
 # Directories
 
