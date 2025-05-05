@@ -186,5 +186,4 @@ black/
 offline/
 
 # VSCode 
-.vscode/*
-!.vscode/settings.json
+.vscode/
