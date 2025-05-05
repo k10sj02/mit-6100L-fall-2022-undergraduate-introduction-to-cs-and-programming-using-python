@@ -173,7 +173,7 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-#Virtual Environment
+# Virtual Environment
 
 ~/.virtualenvs/MIT6100Fall2022/
 cowsay/
@@ -184,3 +184,7 @@ black/
 # Directories
 
 offline/
+
+# VSCode 
+.vscode/*
+!.vscode/settings.json
