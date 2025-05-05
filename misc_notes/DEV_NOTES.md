@@ -123,3 +123,40 @@ git push origin main
 * Ensures local changes are added *after* remote changes
 
 ```
+
+**Date:** May 5, 2025  
+**Reason:** Removed a .vscode folder that should have been added to .gitignore
+
+
+---
+
+### ✅ Removing `.vscode` from Git repo (while keeping it locally)
+
+**Background**: The `.vscode` folder is created by Visual Studio Code to store editor-specific settings. It shouldn't usually be tracked in version control, especially in collaborative projects, because it's often machine- or user-specific.
+
+**Steps Taken**:
+
+1. **Ignored future tracking**:
+   Added `.vscode/` to `.gitignore` so Git won’t track it in the future.
+
+   ```bash
+   echo ".vscode/" >> .gitignore
+   ```
+
+2. **Removed it from Git history (but not from my local machine)**:
+   Used the `--cached` flag to stop tracking `.vscode` without deleting the local folder:
+
+   ```bash
+   git rm -r --cached .vscode
+   ```
+
+3. **Committed and pushed the change**:
+
+   ```bash
+   git commit -m "Remove .vscode from repo and ignore in future"
+   git push
+   ```
+
+**Result**:
+`.vscode` is now ignored by Git and no longer exists in the GitHub repo, but it still exists locally for personal use in VS Code.
+
