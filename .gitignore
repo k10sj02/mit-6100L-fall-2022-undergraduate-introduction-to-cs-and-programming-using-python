@@ -178,6 +178,7 @@ cython_debug/
 ~/.virtualenvs/MIT6100Fall2022/
 cowsay/
 api-requests/
+black/
 
 # Directories
 
