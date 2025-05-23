@@ -187,3 +187,7 @@ offline/
 
 # VSCode 
 .vscode/
+
+# Local history
+
+.history/
