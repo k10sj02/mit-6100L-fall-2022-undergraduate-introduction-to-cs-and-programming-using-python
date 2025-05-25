@@ -17,6 +17,16 @@ As part of my own learning journey, I’ve extended this repo beyond the officia
 11. [Code Wars](https://www.codewars.com/collections/basic-python)
 12. [Hackerrank](https://www.hackerrank.com/domains/python)
 13. [Automate Everything with Python (via Udemy)](https://www.udemy.com/course/automate/)
-14. DataCamp
+14. [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
+15. [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/)
+17. DataCamp
+
+### 📚 Additional High-Quality Free Resources to Deepen Your Python Skills
+
+If you’re looking to go further, here are some well-regarded, in-depth learning resources that are freely available:
+1. [Python Like You Mean It](https://www.pythonlikeyoumeanit.com/index.html)
+2. [Google's Python Class](https://developers.google.com/edu/python)
+3. [Legacy Python for Everybody](https://www.freecodecamp.org/learn/python-for-everybody/#python-for-everybody)
+4. [Dive into Python3](https://diveintopython3.net/)
 
 Feel free to explore, fork, or use this repo as a reference or companion as you work through your own Python learning journey.
