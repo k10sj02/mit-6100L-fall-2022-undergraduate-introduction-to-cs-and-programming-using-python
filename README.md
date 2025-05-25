@@ -27,6 +27,7 @@ If you’re looking to go further, here are some well-regarded, in-depth learnin
 1. [Python Like You Mean It](https://www.pythonlikeyoumeanit.com/index.html)
 2. [Google's Python Class](https://developers.google.com/edu/python)
 3. [Legacy Python for Everybody](https://www.freecodecamp.org/learn/python-for-everybody/#python-for-everybody)
-4. [Dive into Python3](https://diveintopython3.net/)
+4. [Dive into Python 3](https://diveintopython3.net/)
+5. [Computational Statistics with Python (Duke Uiversity)](https://people.duke.edu/~ccc14/sta-663-2017/)
 
 Feel free to explore, fork, or use this repo as a reference or companion as you work through your own Python learning journey.
